@@ -1,0 +1,14 @@
+.page_no{
+    background: #fff;
+    border: 1px solid #000;
+    color: #000 !important;
+    text-shadow: none;
+}
+td p img {
+width: 50px !important;
+height: 50px !important;
+}
+td img {
+width: 50px !important;
+height: 50px !important;
+}

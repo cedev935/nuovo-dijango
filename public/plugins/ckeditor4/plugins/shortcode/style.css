@@ -1,0 +1,75 @@
+.cke_button.cke_button__textgroup {
+    background:#f64846;
+    border: 1px solid #f63c3a;
+    color:#fff;
+    border-radius: 4px !important;
+    cursor: pointer;
+    height:18px;
+    padding:2px 4px !important;
+    margin-left:12px;
+}
+.cke_button.cke_button__textgroup:hover {
+    cursor: pointer;
+    background:#a01e1c;
+    border: 1px solid #f63c3a;
+    padding:2px 4px !important;
+    height:18px;
+    border-radius: 4px !important;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -ms-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    transition: all .5s ease;
+}
+.cke_button.cke_button__textgroup .cke_button_icon {
+    width:16px
+}
+.cke_button.cke_button__textgroup .cke_button_icon:before {
+    color:#fff;
+    font-size: 18px;
+    font: normal normal normal 14px/1 FontAwesome;
+    content: "\f0a1";
+}
+.cke_button.cke_button__textgroup .cke_button_label {
+    display:inline-block;
+    color:#fff;
+    cursor: pointer;
+}
+
+.cke_button.cke_button__chart {
+    background:#5bd6f5;
+    border: 1px solid #5bd6f5;
+    color:#111;
+    border-radius: 4px !important;
+    cursor: pointer;
+    height:18px;
+    padding:2px 4px !important;
+    margin-left:12px;
+}
+.cke_button.cke_button__chart:hover {
+    cursor: pointer;
+    background:#b6e4f0;
+    border: 1px solid #5bd6f5;
+    padding:2px 4px !important;
+    height:18px;
+    border-radius: 4px !important;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -ms-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    transition: all .5s ease;
+}
+.cke_button.cke_button__chart .cke_button_icon {
+    width:16px;
+}
+.cke_button.cke_button__chart .cke_button_icon:before {
+    color:#111;
+    font-size: 18px;
+    font: normal normal normal 14px/1 FontAwesome;
+    content: "\f080";
+}
+.cke_button.cke_button__chart .cke_button_label {
+    display:inline-block;
+    color:#111;
+    cursor: pointer;
+}

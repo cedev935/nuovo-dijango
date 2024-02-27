@@ -1,0 +1,13 @@
+I have fully understand your requirements. 
+First of all, I have to create an attractive landing page.
+After that, will get into the main part of that project.
+As the management role is very important in terms of flourish of your company and security, I have to start on it firstly. This administrative role has every access to the project such as client management, customer management and other main part of that project (planning and activity)
+The perfex project you gave me has already got this management part, so I only have to create some special role for super administrators, customer administrators, employers and customers, since the each groups' role in the project is different.
+For example, Super administrator has every authority to access, edit for every part of that project. But Customers can only see the project's plans and can create their own plans based on the plans they have seen.
+These creating these roles are very crucial on this project. That is the main key of this project.
+And I don't want to mention other small matters such as " no need to make invoice call tages..."
+
+Your sample project was very helpful. I am wondering how could you find such a relevant sample project for your company.
+
+I am willing to work on your project. No need to waste time.
+If you set milestone of your project and assign that task on me, I will finish it untill Monday. Then add or modify some functionalities if you want after check that.

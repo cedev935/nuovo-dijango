@@ -1,0 +1,42 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright Copyright (c) 2018, Apache
+FontName Flaticon
+FontSubfamily Regular
+UniqueID FontForge 2.0 : Flaticon : 22-4-2018
+FullName Flaticon
+Version Version 001.000 
+PostScriptName Flaticon
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 49
+UnderlinePosition -125
+FontHeightOffset 90
+Ascender 877
+Descender -135
+FontBBox -14 -135 1014 877
+StartCharMetrics 22
+U 32 ; WX 391 ; N space ; G 3
+U 61696 ; WX 1000 ; N uniF100 ; G 4
+U 61697 ; WX 1000 ; N uniF101 ; G 5
+U 61698 ; WX 1000 ; N uniF102 ; G 6
+U 61699 ; WX 1000 ; N uniF103 ; G 7
+U 61700 ; WX 1000 ; N uniF104 ; G 8
+U 61701 ; WX 1000 ; N uniF105 ; G 9
+U 61702 ; WX 1000 ; N uniF106 ; G 10
+U 61703 ; WX 1000 ; N uniF107 ; G 11
+U 61704 ; WX 1000 ; N uniF108 ; G 12
+U 61705 ; WX 1000 ; N uniF109 ; G 13
+U 61706 ; WX 1000 ; N uniF10A ; G 14
+U 61707 ; WX 1000 ; N uniF10B ; G 15
+U 61708 ; WX 1000 ; N uniF10C ; G 16
+U 61709 ; WX 1000 ; N uniF10D ; G 17
+U 61710 ; WX 1000 ; N uniF10E ; G 18
+U 61711 ; WX 1000 ; N uniF10F ; G 19
+U 61712 ; WX 1000 ; N uniF110 ; G 20
+U 61713 ; WX 1000 ; N uniF111 ; G 21
+EndCharMetrics
+EndFontMetrics
